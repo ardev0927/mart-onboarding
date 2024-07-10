@@ -1,16 +1,9 @@
 # mart_onboarding
 
-A new Flutter project.
+Flutter onboarding example
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/ardev0927/mart-onboarding/assets/52046319/5263c827-a2fa-4fd6-aa80-8281bf6b7b07
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
